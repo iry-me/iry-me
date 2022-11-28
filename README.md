@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <b>Hi👋, I'm Ryme</b>
+</h1>
 
-<!--
-**iry-me/iry-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+    <b>I'm Noob Tg Bot Developer From India</b>
+</h2> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://open.spotify.com/user/316nfmyznuhp3nbvzawjj7nft4jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://iryme.t.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/ry-me/ry-me/main/assets/telegram-logo-svgrepo-com.svg" alt="rishav-chanda-b89a791b3" height="32" width="40" /></a>
+<a href="https://instagram.com/iryme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC3IHHtSv6KOfncx6Dkbc-gA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
+
+[![Master](https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif)](https://ryme.pages.dev)
