@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://open.spotify.com/user/316nfmyznuhp3nbvzawjj7nft4jy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://iryme.t.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/ry-me/ry-me/main/assets/telegram-logo-svgrepo-com.svg" alt="rishav-chanda-b89a791b3" height="32" width="40" /></a>
+<a href="https://iryme.t.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/irymee/irymme/main/assets/telegram-logo-svgrepo-com.svg" alt="telegram" height="32" width="40" /></a>
 <a href="https://instagram.com/iryme_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UC3IHHtSv6KOfncx6Dkbc-gA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
