@@ -28,3 +28,7 @@
   </a>
 </p>
 
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irymee&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
