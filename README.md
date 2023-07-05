@@ -1,16 +1,16 @@
 <h1 align="center">
   <b>Hi there! 👋 I'm ryme</b>
 </h1>
-
-<p align="center">
-  <img src="https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif" alt="Neon Genesis" width="500" />
-</p>
-
 <h3 align="center">
     <b>Passionate Tg Bot Developer from India</b>
 </h3> 
 
 <p align="center">Creating interactive and innovative bots.</p>
+<p align="center">
+  <img src="https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif" alt="Neon Genesis" width="500" />
+</p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
