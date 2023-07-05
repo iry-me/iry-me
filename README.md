@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif" alt="Neon Genesis" width="500" />
 </p>
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://open.spotify.com/user/316nfmyznuhp3nbvzawjj7nft4jy" target="_blank">
