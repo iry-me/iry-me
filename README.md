@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif" alt="Neon Genesis" width="500" />
-</p>
-
 <h1 align="center">
   <b>Hi there! 👋 I'm ryme</b>
 </h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/OrjN7fY13F8AAAAi/neon-genesis.gif" alt="Neon Genesis" width="500" />
+</p>
 
 <h3 align="center">
     <b>Passionate Tg Bot Developer from India</b>
@@ -26,9 +26,4 @@
   <a href="https://youtube.com/@iryme" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
   </a>
-</p>
-
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irymee&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
