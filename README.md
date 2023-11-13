@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi there! 👋 I'm ryme</b>
+  <b>Hi there! 👋 Mee L E M O N</b>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
