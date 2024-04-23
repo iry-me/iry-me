@@ -1,5 +1,7 @@
 <h1 align="center">
-  <b>Hi there! 👋 Mee L E M O N</b>
+  <b>Hi there! 👋 it's me L E M O N</b>
+  <h2 align="center">
+     <b>A Telegram Bot Developer From India</b>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
