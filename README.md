@@ -5,8 +5,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/316nfmyznuhp3nbvzawjj7nft4jy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="30" />
+  <a href="http://x.com/MeeRazi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="X" height="30" width="30" />
   </a>
   <a href="https://t.me/MeeRazi" target="_blank">
     <img src="https://raw.githubusercontent.com/irymee/irymee/main/assets/telegram-logo-svgrepo-com.svg" alt="Telegram" height="30" width="30" />
