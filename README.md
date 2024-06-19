@@ -14,7 +14,7 @@
   <a href="https://instagram.com/Mee.Razi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
   </a>
-  <a href="https://youtube.com/@iryme" target="_blank">
+  <a href="https://youtube.com/@MaybeRazi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" />
   </a>
 </p>
